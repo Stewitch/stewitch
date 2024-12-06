@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About my username 🤠
+Stewitch is divided into Stew and Witch. The Chinese literal translation of "炖 巫" is homophonic with "顿 悟", which means "sudden enlightenment" in English.
+Quite interesting, isn't it?
+
+## Currently ... 🧐
+Learning Avalonia, trying to make a fantastic launcher for an AI project.
+Learning Python, which allows me to make kinds of tools easily.
+
+## Well, at the end ... ❤
+Make Programming Great Again!
