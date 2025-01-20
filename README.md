@@ -20,9 +20,8 @@ Stewitch is divided into Stew and Witch. The Chinese literal translation of "炖
 Quite interesting, isn't it?
 
 ## Currently ... 🧐
-Learning Avalonia, trying to make a fantastic launcher for an AI project.
 
-Learning Python, which allows me to make kinds of tools easily.
+Learning **Python**, which allows me to make kinds of tools easily.
 
 ## Well, at the end ... ❤
 Make Programming Great Again!
