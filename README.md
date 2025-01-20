@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About my username 🤠
-Stewitch is divided into Stew and Witch. The Chinese literal translation of "炖 巫" is homophonic with "顿 悟", which means "sudden enlightenment" in English.
+Stewitch can be divided into Stew and Witch. The Chinese literal translation of "炖 巫" is homophonic with "顿 悟", which means "sudden enlightenment" in English.
 
 Quite interesting, isn't it?
 
