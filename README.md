@@ -10,7 +10,7 @@ Quite interesting, isn't it?
 
 I've made or making interesting projects using these tools/languages.
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,arduino,godot,visualstudio,qt,py,c,cpp,pr,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,arduino,godot,visualstudio,qt,py,php,html,js,css,c,cpp,pr,ps)](https://skillicons.dev)
 
 ## Stats 📊
 
